@@ -1,7 +1,7 @@
-# LacoRepeticao_python
+# LacoRepeticao_php
 Pequeno programa em python para um teste de laço de repetição
 
-Python
+php
 ## Sobre este repositório
 
 Faça um programa que peça uma nota, entre zero e dez.
